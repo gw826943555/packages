@@ -1,0 +1,21 @@
+
+{
+    "name": "coremark",
+    "description": "a coremark package for rt-thread",
+    "keywords": [
+        "coremark"
+    ],
+    "site" : [
+    {
+        "version" : "v1.0.0", 
+        "URL": "https://github.com/gw826943555/coremark/archive/1.0.0.zip",
+        "filename": "coremark-1.0.0.zip"
+    },
+    {
+        "version": "latest",
+        "URL": "https://github.com/gw826943555/coremark.git",
+        "filename": "coremark.zip",
+        "VER_SHA": "master"
+    }
+    ]
+}
